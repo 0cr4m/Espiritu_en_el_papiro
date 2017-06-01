@@ -1,0 +1,12 @@
+.animasola{
+color: red;
+} 
+a:hover{
+color: blue;
+} --para cuando pasas sobre un enlace
+a:active{
+color: green;
+} --para cuando lo pulsas
+a:visited{
+color: green;
+} --para los que ya as visitado
